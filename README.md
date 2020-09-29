@@ -12,12 +12,13 @@ As a user, I want to be able to view my entire employee directory at once so tha
 
 <h2>Components</h2>
 
-HTML | JavaScript | Node.JS | Express
+HTML | JavaScript | React
 
 <br>
 
 <h2>Install Process</h2>
 
+* npm start
 
 <br>
 
