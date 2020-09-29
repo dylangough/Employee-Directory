@@ -1,6 +1,8 @@
-import Users from './users.json';
+import axios from "axios";
+const url = "https://randomuser.me/api/?inc=gender,name,email,picture";
 
-export default function getUsers() {
-    let result = Users;
-    return result.results;
-}
+export default {
+    search: function() {
+        return axios.get(url);
+    }
+};
