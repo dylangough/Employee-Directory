@@ -9,7 +9,7 @@ function Header() {
             </div>
             <br></br>
             <div className="tagline">
-                Employees are the backbone of your company. Here's all the import information about them!
+                Here is detailed information about all of our employees!
             </div>
         </div>
     );
